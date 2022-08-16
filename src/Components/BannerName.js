@@ -6,7 +6,6 @@ function BannerName({ name, discount, more }) {
     <div className="bannerContent">
       <h3>Hello {name},</h3>
       <p>
-        {/* This is trial */}
         Get free discount for every <span>{`Rs${discount}`}</span>{" "}
         purchase
       </p>
